@@ -50,13 +50,13 @@ export default {
     // '@nhost/nuxt'
   ],
   // nhost: {
-  //   baseURL: 'https://omfnterzxnldtmkfcewp.graphql.ap-south-1.nhost.run/v1'
+  //   baseURL: ''
   // },
 
   // apollo: {
   //   clientConfigs: {
   //     default: {
-  //       httpEndpoint: 'https://omfnterzxnldtmkfcewp.hasura.ap-south-1.nhost.run/v1/graphql',
+  //       httpEndpoint: '',
   //     },
   //   },
   // },
